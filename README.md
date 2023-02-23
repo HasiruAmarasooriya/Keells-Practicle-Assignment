@@ -1,6 +1,6 @@
 # Keells-Practicle-Assignment
 
-
+"Employee Details Mangement System" is a management system that helps to manage the employees and there related departments.Technology stack: React JS, DotNet Core Web API, MySQL.
 
  Implemented Skills 
  
